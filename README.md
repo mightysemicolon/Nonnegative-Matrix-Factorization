@@ -58,7 +58,3 @@ At the end of the notebook the documents are projected to 2D with PCA and t-SNE 
 ## Requirements
 
 numpy, scipy, pandas, scikit-learn, matplotlib
-
-## Reference
-
-Lars Eldén, *Matrix Methods in Data Mining and Pattern Recognition*, SIAM. Chapter on clustering and nonnegative matrix factorization.
